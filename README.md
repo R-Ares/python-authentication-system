@@ -56,13 +56,13 @@ Passwords are stored as:
 
 {
 
-&nbsp;   "alex": {
+ "alex": {
 
-&nbsp;       "hash": "f739e...",
+     "hash": "f739e...",
 
-&nbsp;       "salt": "b5823..."
+     "salt": "b5823..."
 
-&nbsp;   }
+  }
 
 }
 
